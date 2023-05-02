@@ -1,0 +1,2 @@
+C:\Users\hnu\Downloads\Key\KeyAuth-CPP-Example-main\KeyAuth-CPP-Example-main\Release\example.exe
+F:\KeyAuth-CPP-Example-main-x86\KeyAuth-CPP-Example-main\KeyAuth-CPP-Example-main\Release\example.exe
